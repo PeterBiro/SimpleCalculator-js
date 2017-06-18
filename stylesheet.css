@@ -1,0 +1,15 @@
+table {
+    position: 50%;
+    background-color : blue;
+    border-width: 40px; 
+}
+
+td {
+    background-color: whitesmoke;
+    color: black;
+    align-content: center;
+    padding: 20px;
+    user-select: none;
+    font-size: 25px;
+
+}
